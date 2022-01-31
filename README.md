@@ -38,12 +38,13 @@ My Name is Mayank, and I am currently pursuing Masters degree from the Universit
 ## About Me  
 I am actively seeking new opportunities in the domain of Computer Science in order to expand my skillset and gain more experience in life.
 
+<!--
 - 😄 I love to perform EDA of data and get value from data, using modern ML, DL techniques.
 - 🔭 I have recently worked on using Deep Learning to analyse Neuro-Physiology Signals such as EEG, ECG, etc.
 - ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
 - 📫 You can reach me [here](https://www.linkedin.com/in/mayank-k-25931490/) with LinkedIn.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
-
+-->
 
  ## 💻 Langauges & Tools I love Coding In !
 <p align='center'>
