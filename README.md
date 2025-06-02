@@ -1,5 +1,5 @@
 # Hey there 👋 !!
-My Name is Mayank, and I am currently pursuing Masters degree from the University of Paderborn Computer Science.
+My Name is Mayank, and I am currently pursuing Master's degree in Computer Science from the University of Paderborn.
 
 
 ## Reach Out to Me
