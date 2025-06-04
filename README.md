@@ -8,7 +8,7 @@ My Name is Mayank, and I am currently pursuing Master's degree in Computer Scien
 
   <a href="https://github.com/mayankkapadi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
     <a href="https://www.linkedin.com/in/mayank-k-25931490/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
